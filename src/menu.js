@@ -6,7 +6,7 @@ export function Menu(){
         const div1 = document.createElement("div");
         div1.textContent ="Menu";
         
-        div1.setAttribute("style","font-size:40px;position:relative;left:5rem;");
+        div1.setAttribute("style","font-size: 3rem; font-family: 'Pacifico', cursive; text-align: center;");
         
         const div2 = document.createElement("div");
         div2.setAttribute("style","height:5rem; width:10rem; background-color:gold;position:relative; left:5rem; top:2rem;margin:1rem;padding:1rem;border-radius:50px;");

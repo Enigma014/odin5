@@ -5,7 +5,7 @@ export function Pageload(){
         const menudiv = document.createElement("div");
         const div1 = document.createElement("div");
         div1.textContent = "Beary's breakfast Bar";
-        div1.setAttribute("style","font-size:40px;position:relative;left:5rem;");
+        div1.setAttribute("style","font-size: 3rem; font-family: 'Pacifico', cursive; text-align: center;");
         
         const div2 = document.createElement("div");
         const p = document.createElement("p");
